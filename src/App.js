@@ -1,10 +1,15 @@
+import Header from './components/Header';
+import Section from './components/Section'
+
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <h1>Memory Card</h1>
-    </div>
+    <>
+      <Header />
+      <Section />
+    </>
+      
   );
 }
 

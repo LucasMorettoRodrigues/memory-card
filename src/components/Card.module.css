@@ -1,0 +1,30 @@
+.card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: min-content;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    transition: 0.5s;
+}
+
+.card img {
+    width: 150px;
+    height: 150px;
+    transition: 0.5s;
+}
+
+.card p {
+    font-size: 2em;
+    margin-top: -4px;
+    height: 1.2em;
+}
+
+.card img:hover {
+    background-color: chocolate;
+}
+
+.card:hover {
+    transform: scale(1.1);
+}
