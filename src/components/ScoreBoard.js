@@ -1,8 +1,11 @@
-function ScoreBoard() {
+import styles from './Score.module.css'
+
+function ScoreBoard({ currentScore, currentBestScore }) {
     return (
-        <>
-            <h1>Score</h1>
-        </>
+        <div className={styles.score}>
+            <h1><span>Score:</span> {currentScore}</h1>
+            <h1><span>Best Score:</span> {currentBestScore}</h1>
+        </div>       
     )
 }
 

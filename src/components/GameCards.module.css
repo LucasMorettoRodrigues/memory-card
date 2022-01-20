@@ -1,5 +1,9 @@
 .game_cards {
     display: flex;
     flex-wrap: wrap;
-    gap: 2em;
+    gap: 1em;
+}
+
+.game_cards div {
+    margin: 0 auto;
 }

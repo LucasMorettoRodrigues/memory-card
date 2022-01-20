@@ -7,17 +7,17 @@
     background-color: white;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     transition: 0.5s;
+    cursor: pointer;
 }
 
 .card img {
-    width: 150px;
-    height: 150px;
+    width: 130px;
+    height: 130px;
     transition: 0.5s;
 }
 
 .card p {
-    font-size: 2em;
-    margin-top: -4px;
+    font-size: 1.8em;
     height: 1.2em;
 }
 
