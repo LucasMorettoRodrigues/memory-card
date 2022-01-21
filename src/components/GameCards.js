@@ -81,8 +81,13 @@ function GameCards() {
         <div>
             <ScoreBoard currentScore={score[0]} currentBestScore={bestScore[0]}/>
             <div className={styles.game_cards}>
-                {cards.map((card) => (
-                    <Card source={card.source} name={card.name} handleOnClick={select}/>
+                {cards.map((card, index) => (
+                    <Card 
+                        source={card.source} 
+                        name={card.name} 
+                        handleOnClick={select}
+                        key={index}
+                    />
                 ))}            
             </div>
         </div>
