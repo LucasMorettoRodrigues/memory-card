@@ -1,5 +1,11 @@
 .section {
-    padding: 2em;
+    padding: 1em 2em 2em 2em;
     margin: 0 auto;
+}
+
+.instructions {
+    margin-bottom: 1em;
+    font-size: 18px;
+    color: #333;
 }
 
