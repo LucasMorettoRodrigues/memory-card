@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/memory-card/static/css/main.1a1a7db2.css",
+    "main.js": "/memory-card/static/js/main.ba40bca9.js",
+    "static/media/android18.png": "/memory-card/static/media/android18.5295ad3518c23d775905.png",
+    "static/media/piccolo.png": "/memory-card/static/media/piccolo.1fec343d1cca3f7c547f.png",
+    "static/media/masterroshi.png": "/memory-card/static/media/masterroshi.8e1745856cc203591a1c.png",
+    "static/media/broly.png": "/memory-card/static/media/broly.1b52b1fa4bcdf3bf0670.png",
+    "static/media/mrsatan.png": "/memory-card/static/media/mrsatan.6dbb8aef4018fcb96459.png",
+    "static/media/freeza.png": "/memory-card/static/media/freeza.61532e62ff2ee27c3c03.png",
+    "static/media/cell.png": "/memory-card/static/media/cell.b0df84882f4c98eeeba3.png",
+    "static/media/tien.png": "/memory-card/static/media/tien.f58fd244cc5a1f76f6c0.png",
+    "static/media/boo.png": "/memory-card/static/media/boo.8e2ac98777bdd3c8fe38.png",
+    "static/media/krillin.png": "/memory-card/static/media/krillin.250af2d159c56c186ae0.png",
+    "static/media/gohan.png": "/memory-card/static/media/gohan.ac6eff03ac64e6dd1d66.png",
+    "static/media/android17.png": "/memory-card/static/media/android17.01650a260afcfc25d693.png",
+    "static/media/goten.png": "/memory-card/static/media/goten.f771810162125ae1b757.png",
+    "static/media/chichi.png": "/memory-card/static/media/chichi.1d5d7d66b98cfa8894fb.png",
+    "static/media/vegeta.png": "/memory-card/static/media/vegeta.9fedb2aef6d577aed2f9.png",
+    "static/media/trunks.png": "/memory-card/static/media/trunks.24fb872161695d2355ae.png",
+    "static/media/goku.png": "/memory-card/static/media/goku.6993fc9ef030f828db18.png",
+    "static/media/bulma.png": "/memory-card/static/media/bulma.6f0328a1b22d31fb7860.png",
+    "index.html": "/memory-card/index.html",
+    "main.1a1a7db2.css.map": "/memory-card/static/css/main.1a1a7db2.css.map",
+    "main.ba40bca9.js.map": "/memory-card/static/js/main.ba40bca9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a1a7db2.css",
+    "static/js/main.ba40bca9.js"
+  ]
+}
